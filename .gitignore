@@ -216,5 +216,11 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Local source datasets and reproducible pipeline outputs
+raw_data/
+processed/electricity/
+processed/reports/
+processed/ingestion-staging-*/
+
 # Streamlit
 .streamlit/secrets.toml
